@@ -1,0 +1,42 @@
+!<thin>
+//                                              338       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+ff-memless.o/
+matrix-keymap.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+keyboard/samsung-keypad.o/
+keyboard/s2mpu12-key.o/
+joystick/xpad.o/
+tablet/acecad.o/
+tablet/aiptek.o/
+tablet/gtco.o/
+tablet/hanwang.o/
+tablet/kbtab.o/
+touchscreen/of_touchscreen.o/
+misc/uinput.o/
+/0              0           0     0     644     385256    `
+/9              0           0     0     644     117008    `
+/25             0           0     0     644     158688    `
+/37             0           0     0     644     152896    `
+/48             0           0     0     644     168240    `
+/62             0           0     0     644     148128    `
+/79             0           0     0     644     149128    `
+/93             0           0     0     644     447104    `
+/102            0           0     0     644     254200    `
+/120            0           0     0     644     269680    `
+/142            0           0     0     644     205320    `
+/169            0           0     0     644     258016    `
+/193            0           0     0     644     279408    `
+/210            0           0     0     644     179352    `
+/227            0           0     0     644     280968    `
+/244            0           0     0     644     196464    `
+/259            0           0     0     644     190288    `
+/277            0           0     0     644     176280    `
+/293            0           0     0     644     151032    `
+/323            0           0     0     644     285672    `

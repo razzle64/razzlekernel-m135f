@@ -1,0 +1,25 @@
+!<thin>
+//                                              416       `
+tsp_focaltech/ft8720_m13.bin.gen.o/
+tsp_focaltech/ft8720_m13_ramtest.bin.gen.o/
+tsp_himax/hx83112f_a13.bin.gen.o/
+tsp_ilitek/ili7807_m13_f13.hex.gen.o/
+tsp_himax/hx83112f_boe_m13_f13.bin.gen.o/
+sensorhub/shub_nacho_bl.bin.gen.o/
+sensorhub/shub_nacho_a13.bin.gen.o/
+sensorhub/shub_nacho_gthhwifi.bin.gen.o/
+sensorhub/shub_nacho_m13.bin.gen.o/
+sensorhub/shub_nacho_a04s.bin.gen.o/
+sensorhub/shub_nacho_a14.bin.gen.o/
+
+/0              0           0     0     644     181584    `
+/36             0           0     0     644     8912      `
+/80             0           0     0     644     132432    `
+/114            0           0     0     644     360136    `
+/152            0           0     0     644     132456    `
+/194            0           0     0     644     2376      `
+/229            0           0     0     644     160080    `
+/265            0           0     0     644     160104    `
+/306            0           0     0     644     160080    `
+/342            0           0     0     644     160088    `
+/379            0           0     0     644     161904    `

@@ -1,0 +1,313 @@
+!<thin>
+//                                              4932      `
+mfc/mfc.o/
+mfc/mfc_isr.o/
+mfc/mfc_dec_v4l2.o/
+mfc/mfc_dec_vb2.o/
+mfc/mfc_enc_v4l2.o/
+mfc/mfc_enc_vb2.o/
+mfc/mfc_hwlock.o/
+mfc/mfc_nal_q.o/
+mfc/mfc_watchdog.o/
+mfc/mfc_run.o/
+mfc/mfc_sync.o/
+mfc/mfc_pm.o/
+mfc/mfc_cmd.o/
+mfc/mfc_hw_reg_api.o/
+mfc/mfc_reg_api.o/
+mfc/mfc_perf_measure.o/
+mfc/mfc_dec_ctrl.o/
+mfc/mfc_enc_ctrl.o/
+mfc/mfc_enc_param.o/
+mfc/mfc_queue.o/
+mfc/mfc_buf.o/
+mfc/mfc_utils.o/
+mfc/mfc_qos.o/
+mfc/mfc_mem.o/
+mfc/mfc_debugfs.o/
+mfc/mfc_otf.o/
+mfc/mfc_mmcache.o/
+mfc/mfc_llc.o/
+mfc/mfc_meminfo.o/
+camera-pp/camerapp-sfr-api-common.o/
+camera-pp/gdc/camerapp-gdc-core.o/
+camera-pp/gdc/camerapp-gdc-grid.o/
+camera-pp/gdc/camerapp-hw-api-gdc-v100.o/
+camera-pp/votf/camerapp-votf.o/
+camera-pp/votf/camerapp-hw-api-votf.o/
+camera/is-device-csi_v4.o/
+camera/is-core.o/
+camera/is-spi.o/
+camera/is-debug.o/
+camera/is-mem.o/
+camera/is-pipe.o/
+camera/is-framemgr.o/
+camera/is-groupmgr.o/
+camera/is-votfmgr.o/
+camera/is-resourcemgr.o/
+camera/is-devicemgr.o/
+camera/is-video.o/
+camera/is-video-sensor.o/
+camera/is-video-3aa.o/
+camera/is-video-3aac.o/
+camera/is-video-3aap.o/
+camera/is-video-3aaf.o/
+camera/is-video-3aag.o/
+camera/is-video-isp.o/
+camera/is-video-ispc.o/
+camera/is-video-ispp.o/
+camera/is-video-ispt.o/
+camera/is-video-ispg.o/
+camera/is-video-ispv.o/
+camera/is-video-ispw.o/
+camera/is-video-mec.o/
+camera/is-video-orbc.o/
+camera/is-video-mcs.o/
+camera/is-video-mcsp.o/
+camera/is-video-vra.o/
+camera/is-video-clh.o/
+camera/is-video-clhc.o/
+camera/is-video-ssvc0.o/
+camera/is-video-ssvc1.o/
+camera/is-video-ssvc2.o/
+camera/is-video-ssvc3.o/
+camera/is-video-pafrdma.o/
+camera/is-subdev-ctrl.o/
+camera/is-device-ischain.o/
+camera/is-time.o/
+camera/is-dvfs.o/
+camera/is-dt.o/
+camera/is-binary.o/
+camera/is-i2c-config.o/
+camera/is-work.o/
+camera/is-sock.o/
+camera/is-interface-wrap.o/
+camera/is-device-sensor_v2.o/
+camera/sensor/is-helper-i2c.o/
+camera/sensor/csi2/is-hw-csi-v1_2.o/
+camera/sensor/module_framework/is-interface-sensor.o/
+camera/sensor/module_framework/is-interface-actuator.o/
+camera/sensor/module_framework/is-control-sensor.o/
+camera/sensor/module_framework/is-control-actuator.o/
+camera/sensor/module_framework/is-device-sensor-peri.o/
+camera/sensor/module_framework/i2c_dummy/is-i2c-dummy.o/
+camera/sensor/module_framework/modules/is-device-module-base.o/
+camera/sensor/module_framework/cis/is-cis.o/
+camera/sensor/module_framework/cis/is-cis-gc5035.o/
+camera/sensor/module_framework/cis/is-cis-gc02m1.o/
+camera/sensor/module_framework/cis/is-cis-jn1.o/
+camera/sensor/module_framework/cis/is-cis-gc08a3.o/
+camera/sensor/module_framework/actuator/is-helper-actuator-i2c.o/
+camera/sensor/module_framework/actuator/is-actuator-dw9808.o/
+camera/sensor/module_framework/flash/is-flash-sm5714.o/
+camera/ischain/setup-is-module.o/
+camera/ischain/is-v8_20_0/setup-is.o/
+camera/ischain/is-v8_20_0/setup-is-sensor.o/
+camera/ischain/is-v8_20_0/is-hw-pwr.o/
+camera/ischain/is-v8_20_0/is-hw-chain.o/
+camera/ischain/is-v8_20_0/is-hw-dvfs.o/
+camera/ischain/is-v8_20_0/is-subdev-3aa.o/
+camera/ischain/is-v8_20_0/is-subdev-3ac.o/
+camera/ischain/is-v8_20_0/is-subdev-3ap.o/
+camera/ischain/is-v8_20_0/is-subdev-3af.o/
+camera/ischain/is-v8_20_0/is-subdev-3ag.o/
+camera/ischain/is-v8_20_0/is-subdev-isp.o/
+camera/ischain/is-v8_20_0/is-subdev-ixc.o/
+camera/ischain/is-v8_20_0/is-subdev-ixp.o/
+camera/ischain/is-v8_20_0/is-subdev-ixg.o/
+camera/ischain/is-v8_20_0/is-subdev-ixt.o/
+camera/ischain/is-v8_20_0/is-subdev-ixv.o/
+camera/ischain/is-v8_20_0/is-subdev-ixw.o/
+camera/ischain/is-v8_20_0/is-subdev-mexc.o/
+camera/ischain/is-v8_20_0/is-subdev-orbxc.o/
+camera/ischain/is-v8_20_0/is-subdev-mcs.o/
+camera/ischain/is-v8_20_0/is-subdev-mcsp.o/
+camera/ischain/is-v8_20_0/is-subdev-vra.o/
+camera/ischain/is-v8_20_0/is-subdev-paf.o/
+camera/ischain/is-v8_20_0/is-subdev-clh.o/
+camera/ischain/is-v8_20_0/is-subdev-clxc.o/
+camera/ischain/is-v8_20_0/is-subdev-sensor.o/
+camera/ischain/is-v8_20_0/is-subdev-sensor_vc0.o/
+camera/ischain/is-v8_20_0/is-subdev-sensor_vc1.o/
+camera/ischain/is-v8_20_0/is-subdev-sensor_vc2.o/
+camera/ischain/is-v8_20_0/is-subdev-sensor_vc3.o/
+camera/vendor/mcd_v2/is-vender.o/
+camera/vendor/mcd_v2/is-vender-caminfo.o/
+camera/vendor/mcd_v2/is-sec-define.o/
+camera/vendor/mcd_v2/crc32.o/
+camera/vendor/mcd_v2/is-sysfs.o/
+camera/vendor/mcd_v2/is-device-eeprom.o/
+camera/vendor/mcd_v2/is-sec-util.o/
+camera/hardware/is-hw-control.o/
+camera/hardware/is-hw-3aa.o/
+camera/hardware/is-hw-isp.o/
+camera/hardware/is-hw-dm.o/
+camera/hardware/is-hw-tdnr-v2.o/
+camera/hardware/is-hw-clahe.o/
+camera/hardware/is-hw-mcscaler-v3.o/
+camera/hardware/is-hw-djag-v2.o/
+camera/hardware/is-hw-vra-v2.o/
+camera/hardware/is-hw-cac.o/
+camera/hardware/api/is-hw-api-common.o/
+camera/hardware/api/is-hw-api-mcscaler-v8_20-v8_21.o/
+camera/hardware/api/is-hw-api-vra-v3_2.o/
+camera/interface/is-interface-ischain.o/
+camera/interface/is-interface-library.o/
+camera/interface/is-interface-ddk.o/
+camera/interface/is-interface-vra-v2.o/
+
+/0              0           0     0     644     702768    `
+/11             0           0     0     644     501496    `
+/26             0           0     0     644     362008    `
+/46             0           0     0     644     322136    `
+/65             0           0     0     644     388512    `
+/85             0           0     0     644     307976    `
+/104            0           0     0     644     340448    `
+/122            0           0     0     644     451064    `
+/139            0           0     0     644     346264    `
+/159            0           0     0     644     314840    `
+/174            0           0     0     644     301600    `
+/190            0           0     0     644     306112    `
+/204            0           0     0     644     313248    `
+/219            0           0     0     644     291448    `
+/241            0           0     0     644     378504    `
+/260            0           0     0     644     266760    `
+/284            0           0     0     644     311480    `
+/304            0           0     0     644     362992    `
+/324            0           0     0     644     388136    `
+/345            0           0     0     644     354680    `
+/362            0           0     0     644     310728    `
+/377            0           0     0     644     303280    `
+/394            0           0     0     644     351760    `
+/409            0           0     0     644     296576    `
+/424            0           0     0     644     268632    `
+/443            0           0     0     644     331928    `
+/458            0           0     0     644     293864    `
+/477            0           0     0     644     1160      `
+/492            0           0     0     644     285768    `
+/511            0           0     0     644     80464     `
+/548            0           0     0     644     410464    `
+/583            0           0     0     644     185456    `
+/618            0           0     0     644     240928    `
+/660            0           0     0     644     322144    `
+/692            0           0     0     644     38592     `
+/731            0           0     0     644     601992    `
+/758            0           0     0     644     568368    `
+/776            0           0     0     644     391208    `
+/793            0           0     0     644     276016    `
+/812            0           0     0     644     201824    `
+/829            0           0     0     644     1160      `
+/847            0           0     0     644     374032    `
+/869            0           0     0     644     630496    `
+/891            0           0     0     644     379600    `
+/912            0           0     0     644     591336    `
+/937            0           0     0     644     397920    `
+/960            0           0     0     644     543040    `
+/979            0           0     0     644     456200    `
+/1005           0           0     0     644     477232    `
+/1028           0           0     0     644     435752    `
+/1052           0           0     0     644     435728    `
+/1076           0           0     0     644     435424    `
+/1100           0           0     0     644     435752    `
+/1124           0           0     0     644     453464    `
+/1147           0           0     0     644     434368    `
+/1171           0           0     0     644     434368    `
+/1195           0           0     0     644     432848    `
+/1219           0           0     0     644     432848    `
+/1243           0           0     0     644     432848    `
+/1267           0           0     0     644     432848    `
+/1291           0           0     0     644     436224    `
+/1314           0           0     0     644     436312    `
+/1338           0           0     0     644     439808    `
+/1361           0           0     0     644     438016    `
+/1385           0           0     0     644     466792    `
+/1408           0           0     0     644     445640    `
+/1431           0           0     0     644     430600    `
+/1455           0           0     0     644     423168    `
+/1480           0           0     0     644     420656    `
+/1505           0           0     0     644     420608    `
+/1530           0           0     0     644     420608    `
+/1555           0           0     0     644     460544    `
+/1582           0           0     0     644     487536    `
+/1607           0           0     0     644     974800    `
+/1635           0           0     0     644     354896    `
+/1653           0           0     0     644     405312    `
+/1671           0           0     0     644     528224    `
+/1687           0           0     0     644     129992    `
+/1707           0           0     0     644     446472    `
+/1731           0           0     0     644     28968     `
+/1749           0           0     0     644     387088    `
+/1767           0           0     0     644     430072    `
+/1795           0           0     0     644     919440    `
+/1825           0           0     0     644     99184     `
+/1856           0           0     0     644     247856    `
+/1893           0           0     0     644     710736    `
+/1947           0           0     0     644     459280    `
+/2003           0           0     0     644     493504    `
+/2055           0           0     0     644     438896    `
+/2109           0           0     0     644     604104    `
+/2165           0           0     0     644     441472    `
+/2222           0           0     0     644     626416    `
+/2286           0           0     0     644     494968    `
+/2331           0           0     0     644     745792    `
+/2383           0           0     0     644     653120    `
+/2435           0           0     0     644     651912    `
+/2484           0           0     0     644     673984    `
+/2536           0           0     0     644     75976     `
+/2602           0           0     0     644     539608    `
+/2664           0           0     0     644     467872    `
+/2720           0           0     0     644     371968    `
+/2754           0           0     0     644     166400    `
+/2792           0           0     0     644     154272    `
+/2837           0           0     0     644     337352    `
+/2876           0           0     0     644     492104    `
+/2917           0           0     0     644     439176    `
+/2957           0           0     0     644     382672    `
+/3000           0           0     0     644     367888    `
+/3043           0           0     0     644     377144    `
+/3086           0           0     0     644     298112    `
+/3129           0           0     0     644     298112    `
+/3172           0           0     0     644     381152    `
+/3215           0           0     0     644     356480    `
+/3258           0           0     0     644     350976    `
+/3301           0           0     0     644     360416    `
+/3344           0           0     0     644     360416    `
+/3387           0           0     0     644     347800    `
+/3430           0           0     0     644     347808    `
+/3473           0           0     0     644     298120    `
+/3517           0           0     0     644     298128    `
+/3562           0           0     0     644     380208    `
+/3605           0           0     0     644     409544    `
+/3649           0           0     0     644     352808    `
+/3692           0           0     0     644     298096    `
+/3735           0           0     0     644     298096    `
+/3778           0           0     0     644     298120    `
+/3822           0           0     0     644     353632    `
+/3868           0           0     0     644     356464    `
+/3918           0           0     0     644     356464    `
+/3968           0           0     0     644     356464    `
+/4018           0           0     0     644     356464    `
+/4068           0           0     0     644     614080    `
+/4102           0           0     0     644     645472    `
+/4144           0           0     0     644     681136    `
+/4182           0           0     0     644     5704      `
+/4212           0           0     0     644     585496    `
+/4245           0           0     0     644     395936    `
+/4286           0           0     0     644     235400    `
+/4322           0           0     0     644     608000    `
+/4355           0           0     0     644     479408    `
+/4384           0           0     0     644     466328    `
+/4413           0           0     0     644     68848     `
+/4441           0           0     0     644     397224    `
+/4474           0           0     0     644     440320    `
+/4505           0           0     0     644     602040    `
+/4542           0           0     0     644     380080    `
+/4575           0           0     0     644     439896    `
+/4607           0           0     0     644     384160    `
+/4636           0           0     0     644     19728     `
+/4676           0           0     0     644     192992    `
+/4730           0           0     0     644     8400      `
+/4772           0           0     0     644     571008    `
+/4813           0           0     0     644     564600    `
+/4854           0           0     0     644     480656    `
+/4891           0           0     0     644     4100464   `

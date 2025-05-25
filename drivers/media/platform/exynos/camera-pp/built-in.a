@@ -1,0 +1,14 @@
+!<thin>
+//                                              160       `
+camerapp-sfr-api-common.o/
+gdc/camerapp-gdc-core.o/
+gdc/camerapp-gdc-grid.o/
+gdc/camerapp-hw-api-gdc-v100.o/
+votf/camerapp-votf.o/
+votf/camerapp-hw-api-votf.o/
+/0              0           0     0     644     80464     `
+/27             0           0     0     644     410464    `
+/52             0           0     0     644     185456    `
+/77             0           0     0     644     240928    `
+/109            0           0     0     644     322144    `
+/131            0           0     0     644     38592     `

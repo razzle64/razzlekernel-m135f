@@ -1,0 +1,1 @@
+cmd_drivers/muic/sm/sm5714/built-in.a :=  rm -f drivers/muic/sm/sm5714/built-in.a; /home/razzle/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/muic/sm/sm5714/built-in.a drivers/muic/sm/sm5714/sm5714-muic.o drivers/muic/sm/sm5714/sm5714-muic-afc.o drivers/muic/sm/sm5714/sm5714-muic-pdic.o

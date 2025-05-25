@@ -1,0 +1,63 @@
+!<thin>
+//                                              666       `
+debug/sec_debug_base.o/
+debug/sec_dump_sink.o/
+debug/sec_debug_test.o/
+debug/sec_debug_ksym.o/
+debug/sec_debug_mode.o/
+debug/sec_debug_memtab.o/
+debug/sec_debug_param.o/
+debug/sec_debug_dprm.o/
+debug/sec_debug_hist.o/
+debug/sec_debug_reset_reason.o/
+debug/sec_debug_extra_info.o/
+debug/sec_debug_hw_param.o/
+debug/sec_debug_auto_comment.o/
+debug/sec_debug_last_kmsg.o/
+debug/sec_debug_wdd_info.o/
+debug/sec_debug_freq.o/
+debug/sec_debug_dtask.o/
+pm/sec_pm_debug.o/
+pm/sec_thermistor.o/
+perf/sec_bootstat.o/
+sec_reboot.o/
+sec_class.o/
+sec_param.o/
+sec_fmm_lock.o/
+sec_common.o/
+sec_crash_key.o/
+sec_crash_key_user.o/
+sec_hard_reset_hook.o/
+sec_argos.o/
+sec_sysup.o/
+
+/0              0           0     0     644     234376    `
+/24             0           0     0     644     165576    `
+/47             0           0     0     644     211096    `
+/71             0           0     0     644     8008      `
+/95             0           0     0     644     6808      `
+/119            0           0     0     644     13624     `
+/145            0           0     0     644     203320    `
+/170            0           0     0     644     77712     `
+/194            0           0     0     644     106912    `
+/218            0           0     0     644     175864    `
+/250            0           0     0     644     198144    `
+/280            0           0     0     644     114120    `
+/308            0           0     0     644     117128    `
+/340            0           0     0     644     108792    `
+/369            0           0     0     644     111280    `
+/397            0           0     0     644     184288    `
+/421            0           0     0     644     51088     `
+/446            0           0     0     644     182712    `
+/465            0           0     0     644     78568     `
+/486            0           0     0     644     163776    `
+/507            0           0     0     644     243016    `
+/521            0           0     0     644     44480     `
+/534            0           0     0     644     222456    `
+/547            0           0     0     644     122920    `
+/563            0           0     0     644     12464     `
+/577            0           0     0     644     6880      `
+/594            0           0     0     644     17088     `
+/616            0           0     0     644     152240    `
+/639            0           0     0     644     164488    `
+/652            0           0     0     644     146272    `

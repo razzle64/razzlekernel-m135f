@@ -1,0 +1,1 @@
+cmd_sound/pci/ca0106/built-in.a :=  rm -f sound/pci/ca0106/built-in.a; /home/razzle/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD sound/pci/ca0106/built-in.a 

@@ -1,0 +1,163 @@
+!<thin>
+//                                              2384      `
+samsung/exynos-el3_mon.o/
+samsung/exynos-smc.o/
+samsung/cal-if/cal-if.o/
+samsung/cal-if/pmucal_system.o/
+samsung/cal-if/pmucal_local.o/
+samsung/cal-if/pmucal_cpu.o/
+samsung/cal-if/pmucal_rae.o/
+samsung/cal-if/pmucal_powermode.o/
+samsung/cal-if/pmucal_cp.o/
+samsung/cal-if/pmucal_gnss.o/
+samsung/cal-if/pmucal_shub.o/
+samsung/cal-if/cmucal.o/
+samsung/cal-if/ra.o/
+samsung/cal-if/vclk.o/
+samsung/cal-if/pll_spec.o/
+samsung/cal-if/acpm_dvfs.o/
+samsung/cal-if/fvmap.o/
+samsung/cal-if/exynos3830/cal_data.o/
+samsung/exynos-pd.o/
+samsung/exynos-pd-dbg.o/
+samsung/ect_parser.o/
+samsung/exynos-pmu.o/
+samsung/acpm/acpm.o/
+samsung/acpm/acpm_ipc.o/
+samsung/acpm/acpm_mfd.o/
+samsung/exynos-flexpmu-dbg.o/
+samsung/pm_domains.o/
+samsung/exynos-chipid.o/
+samsung/usi_v2.o/
+samsung/exynos-reboot.o/
+samsung/debug/exynos-coresight.o/
+samsung/debug/exynos3830-itmon.o/
+samsung/debug/exynos-helper.o/
+samsung/debug/exynos-handler.o/
+samsung/debug/exynos-debug-test.o/
+samsung/exynos-dm.o/
+samsung/exynos-powermode.o/
+samsung/exynos-pm.o/
+samsung/exynos-cpuhp.o/
+samsung/exynos-cpupm.o/
+samsung/exynos-seclog.o/
+samsung/exynos-ssp.o/
+samsung/exynos-tzasc.o/
+samsung/secmem.o/
+samsung/exynos-sdm.o/
+samsung/cpif/mcu_ipc.o/
+samsung/cpif/shm_ipc.o/
+samsung/cpif/modem_main.o/
+samsung/cpif/modem_variation.o/
+samsung/cpif/modem_io_device.o/
+samsung/cpif/net_io_device.o/
+samsung/cpif/bootdump_io_device.o/
+samsung/cpif/ipc_io_device.o/
+samsung/cpif/modem_utils.o/
+samsung/cpif/modem_dump.o/
+samsung/cpif/cpif_clat_info.o/
+samsung/cpif/cpif_tethering_info.o/
+samsung/cpif/link_device.o/
+samsung/cpif/link_device_memory_snapshot.o/
+samsung/cpif/link_device_memory_flow_control.o/
+samsung/cpif/link_device_memory_debug.o/
+samsung/cpif/link_device_memory_sbd.o/
+samsung/cpif/link_device_memory_legacy.o/
+samsung/cpif/modem_notifier.o/
+samsung/cpif/modem_ctrl_s5000ap.o/
+samsung/cpif/modem_ctrl.o/
+samsung/cpif/cp_btl.o/
+samsung/cpif/modem_argos_notifier.o/
+samsung/gnssif/gnss_mbox.o/
+samsung/gnssif/gnss_main.o/
+samsung/gnssif/gnss_io_device.o/
+samsung/gnssif/gnss_keplerctl_device.o/
+samsung/gnssif/gnss_link_device_shmem.o/
+samsung/gnssif/gnss_link_device_memory.o/
+samsung/gnssif/pmu-gnss.o/
+samsung/gnssif/gnss_utils.o/
+samsung/exynos_cpu_perf/exynos_perf_ncmemcpy.o/
+samsung/exynos_cpu_perf/exynos_perf_cpuidle.o/
+samsung/exynos_cpu_perf/exynos_perf_cpu.o/
+samsung/exynos_cpu_perf/exynos_perf_cpufreq.o/
+
+/0              0           0     0     644     19936     `
+/26             0           0     0     644     4160      `
+/48             0           0     0     644     44224     `
+/73             0           0     0     644     16328     `
+/105            0           0     0     644     15648     `
+/136            0           0     0     644     18504     `
+/165            0           0     0     644     95912     `
+/194            0           0     0     644     13232     `
+/229            0           0     0     644     28944     `
+/257            0           0     0     644     17072     `
+/287            0           0     0     644     13776     `
+/317            0           0     0     644     23840     `
+/342            0           0     0     644     155648    `
+/363            0           0     0     644     53896     `
+/386            0           0     0     644     22896     `
+/413            0           0     0     644     93808     `
+/441            0           0     0     644     202432    `
+/465            0           0     0     644     759744    `
+/503            0           0     0     644     166280    `
+/524            0           0     0     644     146024    `
+/549            0           0     0     644     386624    `
+/571            0           0     0     644     104232    `
+/593            0           0     0     644     158336    `
+/614            0           0     0     644     188304    `
+/639            0           0     0     644     89080     `
+/664            0           0     0     644     222904    `
+/694            0           0     0     644     96504     `
+/716            0           0     0     644     121264    `
+/741            0           0     0     644     99712     `
+/759            0           0     0     644     134368    `
+/784            0           0     0     644     190976    `
+/818            0           0     0     644     242512    `
+/852            0           0     0     644     161744    `
+/883            0           0     0     644     88952     `
+/915            0           0     0     644     162560    `
+/950            0           0     0     644     157392    `
+/971            0           0     0     644     84336     `
+/999            0           0     0     644     256840    `
+/1020           0           0     0     644     227128    `
+/1044           0           0     0     644     185648    `
+/1068           0           0     0     644     173880    `
+/1093           0           0     0     644     183440    `
+/1115           0           0     0     644     179104    `
+/1139           0           0     0     644     185472    `
+/1157           0           0     0     644     4136      `
+/1179           0           0     0     644     356544    `
+/1203           0           0     0     644     314448    `
+/1227           0           0     0     644     595736    `
+/1254           0           0     0     644     263312    `
+/1286           0           0     0     644     433024    `
+/1318           0           0     0     644     405608    `
+/1348           0           0     0     644     427960    `
+/1383           0           0     0     644     419352    `
+/1413           0           0     0     644     527296    `
+/1441           0           0     0     644     309392    `
+/1468           0           0     0     644     322000    `
+/1499           0           0     0     644     7896      `
+/1535           0           0     0     644     679480    `
+/1563           0           0     0     644     310040    `
+/1607           0           0     0     644     323280    `
+/1655           0           0     0     644     290904    `
+/1696           0           0     0     644     324488    `
+/1735           0           0     0     644     335456    `
+/1777           0           0     0     644     5720      `
+/1808           0           0     0     644     450728    `
+/1843           0           0     0     644     300896    `
+/1870           0           0     0     644     329080    `
+/1893           0           0     0     644     272760    `
+/1930           0           0     0     644     227688    `
+/1958           0           0     0     644     318944    `
+/1986           0           0     0     644     338896    `
+/2019           0           0     0     644     194112    `
+/2059           0           0     0     644     367320    `
+/2100           0           0     0     644     191008    `
+/2142           0           0     0     644     209248    `
+/2169           0           0     0     644     340192    `
+/2198           0           0     0     644     202984    `
+/2246           0           0     0     644     127512    `
+/2293           0           0     0     644     1168      `
+/2336           0           0     0     644     131136    `

@@ -1,0 +1,35 @@
+!<thin>
+//                                              300       `
+ion/ion.o/
+ion/ion-ioctl.o/
+ion/ion_heap.o/
+ion/ion_system_heap.o/
+ion/ion_page_pool.o/
+ion/ion_carveout_heap.o/
+ion/ion_cma_heap.o/
+ion/ion_hpa_heap.o/
+ion/ion_test.o/
+ion/ion_fdt_exynos.o/
+ion/ion_buffer_protect.o/
+ion/ion_exynos.o/
+ion/ion_debug.o/
+ashmem.o/
+switch/switch_class.o/
+lmkd_debug.o/
+
+/0              0           0     0     644     290976    `
+/11             0           0     0     644     101984    `
+/28             0           0     0     644     156144    `
+/44             0           0     0     644     176040    `
+/67             0           0     0     644     190960    `
+/88             0           0     0     644     152760    `
+/113            0           0     0     644     149288    `
+/133            0           0     0     644     149944    `
+/153            0           0     0     644     210808    `
+/169            0           0     0     644     150656    `
+/191            0           0     0     644     34352     `
+/217            0           0     0     644     193864    `
+/235            0           0     0     644     163344    `
+/252            0           0     0     644     251496    `
+/262            0           0     0     644     139528    `
+/285            0           0     0     644     133040    `

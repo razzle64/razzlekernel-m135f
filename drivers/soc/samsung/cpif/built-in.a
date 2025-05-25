@@ -1,0 +1,48 @@
+!<thin>
+//                                              452       `
+mcu_ipc.o/
+shm_ipc.o/
+modem_main.o/
+modem_variation.o/
+modem_io_device.o/
+net_io_device.o/
+bootdump_io_device.o/
+ipc_io_device.o/
+modem_utils.o/
+modem_dump.o/
+cpif_clat_info.o/
+cpif_tethering_info.o/
+link_device.o/
+link_device_memory_snapshot.o/
+link_device_memory_flow_control.o/
+link_device_memory_debug.o/
+link_device_memory_sbd.o/
+link_device_memory_legacy.o/
+modem_notifier.o/
+modem_ctrl_s5000ap.o/
+modem_ctrl.o/
+cp_btl.o/
+modem_argos_notifier.o/
+/0              0           0     0     644     356544    `
+/11             0           0     0     644     314448    `
+/22             0           0     0     644     595736    `
+/36             0           0     0     644     263312    `
+/55             0           0     0     644     433024    `
+/74             0           0     0     644     405608    `
+/91             0           0     0     644     427960    `
+/113            0           0     0     644     419352    `
+/130            0           0     0     644     527296    `
+/145            0           0     0     644     309392    `
+/159            0           0     0     644     322000    `
+/177            0           0     0     644     7896      `
+/200            0           0     0     644     679480    `
+/215            0           0     0     644     310040    `
+/246            0           0     0     644     323280    `
+/281            0           0     0     644     290904    `
+/309            0           0     0     644     324488    `
+/335            0           0     0     644     335456    `
+/364            0           0     0     644     5720      `
+/382            0           0     0     644     450728    `
+/404            0           0     0     644     300896    `
+/418            0           0     0     644     329080    `
+/428            0           0     0     644     272760    `
